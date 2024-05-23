@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mauro Rinaldi"
+title: "Mauro Adriel Rinaldi"
 author_profile: true
 redirect_from: 
   - /about/
